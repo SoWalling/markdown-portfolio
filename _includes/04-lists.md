@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+Food I'd like to eat:
+- Gulasch
+- Pizza
+- Fruit Salad
+- Apples
+  - sweet
+  - sour
