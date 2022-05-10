@@ -1,1 +1,1 @@
-![Link to my Github profile] (https://github.com/SoWalling)
+[Link to my Github profile] (https://github.com/SoWalling)
